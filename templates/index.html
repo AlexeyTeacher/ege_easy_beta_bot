@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Данные о посещениях</title>
+</head>
+<body>
+<h1>Данные о посетителях чат-бота EGE EASY</h1>
+
+
+{% for item in items %}
+<p>{{item}}</p>
+{% endfor %}
+
+<p><img src="{{url_for('static', filename='im1.png')}}" /></p>
+</body>
+</html>
