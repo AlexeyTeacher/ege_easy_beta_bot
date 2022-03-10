@@ -33,7 +33,7 @@
 * написать страницу во Flask для отображения данных о сессиях пользователей чат-бота
 
 
-![project image](static\im1.png)
+![project image](static/im1.png)
 
 _P.S.: Не бойтесь ошибки в консоли: __ege_easy_beta_bot\venv\lib\site-packages\telegram\ext\conversationhandler.py:288: UserWarning: If 'per_message=False', 'CallbackQueryHandler' will not be tracked for every message.
   warnings.warn(__ на работу чат бота  она, по крайней мере, заявленных функций никак не влияет)))))_
